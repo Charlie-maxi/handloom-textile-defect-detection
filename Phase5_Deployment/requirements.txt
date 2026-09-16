@@ -11,3 +11,5 @@ fastapi
 uvicorn
 gradio
 requests
+scikit-image
+Pillow
