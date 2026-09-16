@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+gradio
+numpy
+pandas
+opencv-python
+scikit-image
+scikit-learn
+joblib
+xgboost
+lightgbm
+catboost
+python-multipart

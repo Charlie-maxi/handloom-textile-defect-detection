@@ -1,0 +1,14 @@
+Classification Report
+
+              precision    recall    f1-score    support
+
+No Defect       0.98       0.98       0.98        333
+
+Defect          0.98       0.97       0.97        215
+
+
+Accuracy                               0.98        548
+
+Macro Avg       0.98       0.98       0.98
+
+Weighted Avg    0.98       0.98       0.98

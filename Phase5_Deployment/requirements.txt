@@ -1,0 +1,12 @@
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+xgboost
+lightgbm
+catboost
+joblib
+fastapi
+uvicorn
+gradio
